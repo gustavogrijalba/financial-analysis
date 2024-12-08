@@ -1,0 +1,12 @@
+streamlit
+requests
+beautifulsoup4
+sentence-transformers
+pinecone-client
+python-dotenv
+huggingface
+scikit-learn
+numpy
+langchain_community
+yfinance 
+matplotlib
